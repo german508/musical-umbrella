@@ -1,2 +1,1 @@
-# musical-umbrella
-este es un repositorio del modulo2 prepcourse henry
+este es un proyecto de prueba de crear mi primer repositorio
